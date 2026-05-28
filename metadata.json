@@ -1,0 +1,6 @@
+{
+  "name": "Monitor de Big Techs & IA",
+  "description": "Monitoramento inteligente de múltiplos e avaliação de risco de bolha para Big Techs (NVDA, PLTR, MSFT, AVGO)",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
